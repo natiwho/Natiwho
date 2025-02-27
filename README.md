@@ -4,7 +4,7 @@ Full Stack Developer
 Full Stack Developer.....
 
 * 🌍  I'm based in Wellington, New Zealand
-* 🖥️  See my portfolio at [Natnael Gebremichael](http://https://natnael.dev)
+* 🖥️  See my portfolio at [Natnael Gebremichael](https://natnael.dev)
 * ✉️  You can contact me at [natnael92460@gmail.com](mailto:natnael92460@gmail.com)
 * 🚀  I'm currently working on [Inventory Managment](http://store.natnael.dev)
 * 🧠  I'm learning Advanced React Native for mobile app development
